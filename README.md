@@ -37,10 +37,11 @@ The script consists of the following main sections:
 - The script might require modifications or additional code to handle specific problem instances or constraints.
 - If you encounter any issues or have questions, please feel free to contact the author.
 
-## Author
-`
-Forootani, Ali, et al. "Modelling and solving resource allocation problems via a dynamic programming approach." International Journal of Control 94.6 (2021): 1544-1555.
-`
+## Article
+
+1. Forootani, Ali, et al. "Modelling and solving resource allocation problems via a dynamic programming approach." International Journal of Control 94.6 (2021): 1544-1555.
+
+you can contact me via: aliforootani@ieee.org
 
 ## License
 This script is provided under the [MIT License](https://opensource.org/licenses/MIT).
