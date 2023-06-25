@@ -39,8 +39,16 @@ The script consists of the following main sections:
 
 ## Author
 `
-Forootani, Ali, et al. "Modelling and solving resource allocation problems via a dynamic programming approach." International Journal of Control 94.6 (2021): 1544-1555.
-`
+@article{forootani2021modelling,
+  title={Modelling and solving resource allocation problems via a dynamic programming approach},
+  author={Forootani, Ali et al.},
+  journal={International Journal of Control},
+  volume={94},
+  number={6},
+  pages={1544--1555},
+  year={2021},
+  publisher={Taylor \& Francis}
+}`
 
 ## License
 This script is provided under the [MIT License](https://opensource.org/licenses/MIT).
